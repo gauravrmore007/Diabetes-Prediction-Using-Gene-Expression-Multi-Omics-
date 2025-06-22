@@ -35,4 +35,4 @@ This project builds a machine learning model to predict Type 2 Diabetes (T2D) st
 ## 👨‍💻 Author
 Gaurav More
 
-M.S. in Biomedical Informatics @ The Ohio State University  
+
